@@ -1,0 +1,23 @@
+{
+  "name": "st2_01_testrepo",
+  "version": "1.0.0",
+  "description": "## Tabelle 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolgerSinComcaveTraining/ST2_01_testrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolgerSinComcaveTraining/ST2_01_testrepo/issues"
+  },
+  "homepage": "https://github.com/HolgerSinComcaveTraining/ST2_01_testrepo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
